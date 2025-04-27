@@ -7,8 +7,6 @@ ssheikh85 Apr - 2019
 Bird model in app is from THREEJS examples https://github.com/mrdoob/three.js/tree/master/examples/models/gltf
 Creative Commons Magic Valley" by [bilgehan.korkmaz](https://sketchfab.com/bilgehan.korkmaz) is [licensed under CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-App is deployed on https://web-avatar.herokuapp.com/
-
 ![alt text](https://github.com/ssheikh85/stackathon_FSA1902/blob/master/Web_Avatar_screenshot%20(1).png)
 
 # Description
